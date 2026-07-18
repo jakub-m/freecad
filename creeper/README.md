@@ -4,6 +4,6 @@
 
 - Needs some glue (bad design)
 
-![img](images/c1.png)
+![img](images/c1.jpg)
 ![img](images/c2.png)
 ![img](images/c3.png)
