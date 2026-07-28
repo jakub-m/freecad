@@ -4,7 +4,6 @@ Obudowa siłownika szafki Le Mans
 
 
 ```stl
-
 solid Mesh
   facet normal 0.999689 0.024931 -0.000000
     outer loop
